@@ -6,3 +6,7 @@ To run the application you have to simply download and import the project into U
 Once you do that you can build and run application by pressing Build And Run button. The application was written on Unity 2019.4.1f1 version and Vuforia 9.3.3 version.
 
 ![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
