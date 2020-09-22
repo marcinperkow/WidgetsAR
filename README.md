@@ -7,6 +7,6 @@ Once you do that you can build and run application by pressing Build And Run but
 
 ![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
 ![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Picture%20Calendar.png)
-![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
-![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
-![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Digital%20Wooden%20Clock.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Temperature%20and%20Humidity%20Flasks.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/Wind%20Displayer.png)
+![Digital Wooden Clock](https://github.com/mperko6/cs428_Perkowski_Marcin_Project1/blob/master/All%20Widgets%20at%20Once.png)
