@@ -1,5 +1,5 @@
 # CS428 Project 1
-This is my unfinished project 1. Currently I implemented 4 widgets. You will be able to see current time and date. 
+This is my project 1. Currently I implemented 4 widgets. You will be able to see current time and date. 
 You will aslo be able to see temperature, humidity, wind speed and wind direction for a city of Chicago. All 4 widgets can be present at the same time.
 
 To run the application you have to simply download and import the project into Unity3D. Once you do that go into File->Build Settings... and check your platform.
