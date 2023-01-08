@@ -6,7 +6,7 @@ You will aslo be able to see temperature, humidity, wind speed and wind directio
 To run the application you have to simply download and import the project into Unity3D. Once you do that go into File->Build Settings... and check your platform.
 Once you do that you can build and run application by pressing Build And Run button. The application was written on Unity 2019.4.1f1 version and Vuforia 9.3.3 version.
 
-Click [here](https://github.com/marcinperkow/WidgetsAR) to download the application.
+Download this repository to try the application.
  
 ## Pictures
 
